@@ -1,7 +1,7 @@
 {
   "name": "sookjae",
   "version": "1.0.0",
-  "description": "Create homework folder & files easily for SSAFY",
+  "description": "Create homework folder & files easily at SSAFY",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
