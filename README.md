@@ -48,7 +48,6 @@ sookjae
 
 ### How to use
 
-![사용법](./assets/guide.gif)
-
+<img src="./assets/guide.gif" alt="사용법" width=700/>
 
 
