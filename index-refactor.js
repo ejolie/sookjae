@@ -24,7 +24,7 @@ const QUESTION = [
 inquirer.prompt(QUESTION)
 	.then(obj => {
 		const input = obj['num'].trim();
-		const DIR = __dirname + `/${input}/`
+		const DIR = `./${input}/`
 		const HW_NAME = `${input}-homework.md`
 		const WS_NAME = `${input}-workshop.md`
 		const HW_CONTENT = `# ${input} Homework\n`
