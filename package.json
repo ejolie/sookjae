@@ -1,6 +1,6 @@
 {
   "name": "sookjae",
-  "version": "1.0.0",
+  "version": "1.0.0-rc.1",
   "description": "Create homework folder & files easily at SSAFY",
   "main": "index.js",
   "scripts": {
