@@ -48,7 +48,7 @@ sookjae
 
 ### How to use
 
-![사용법](/Users/eunjeong/Developer/npm-projects/sookjae/assets/guide.gif)
+![사용법](./assets/guide.gif)
 
 
 
