@@ -17,7 +17,7 @@ ex) 26번째 숙제를 해야할 때 `sookjae` 실행 뒤 `26` 을 입력하면 
   * 26-workshop.md 
 
     ```markdown
-    # 26 workshop
+    # 26 Workshop
     ```
 
 
