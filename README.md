@@ -1,5 +1,3 @@
-### 🚧 Work in progress 
-
 # sookjae
 
 SSAFY 숙제 제출 폴더와 파일을 쉽게 만들어주는 npm 패키지
