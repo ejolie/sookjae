@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-// refactoring to promise ver.
+// (work in progress)
+// refactor index.js using promise
 
 const fs = require('fs');
 const inquirer = require('inquirer');
@@ -35,7 +36,7 @@ inquirer.prompt(QUESTION)
 			// Create Homework file
 			fs.writeFile(HW_NAME, HW_CONTENT, err => {
 				if (err) throw err;
-				// Create Workshop fil
+				// Create Workshop file
 				fs.writeFile(WS_NAME, WS_CONTENT, err => {
 					if (err) throw err;
 					// Move files into the directory
